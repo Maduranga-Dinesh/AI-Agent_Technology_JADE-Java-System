@@ -18,6 +18,14 @@ have to assess the system and provide an entry in it. Through the system the use
 books with versions in the bookshelves. The system is designed with the basic features such as
 users can purchase, search books with latest versions.
 
+# IMPLEMENTATIONS
+
+To implement this E-Library System Mini project I used JADE as Multi Agent
+Development Environment. According to the FIPA guidelines for interoperable multi-agent
+systems, JADE (Java Agent Development Framework) is a software environment for developing
+agent systems for the administration of networked information resources. JADE framework the
+basic application will be handle the major core incident that happen on the E-Library system
+
 Fore more info. Plese refer the "Project report".
 
 Thank you.
